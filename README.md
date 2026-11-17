@@ -15,6 +15,7 @@ Soy un QA Engineer con experiencia en comunicación con clientes, análisis de r
 ## 🌐 Redes y Contacto
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-o-esposito/)
+- [![Ver proyecto en Lovable](https://img.shields.io/badge/Lovable-FF6FFF?style=for-the-badge&logo=lovable&logoColor=white)](https://giovannioesposigo-qa.lovable.app)
 - ✉️ [giovannioscaresposito@gmail.com](mailto:giovannioscaresposito@gmail.com)
 - 📍 Santiago, Región Metropolitana, Chile
 
